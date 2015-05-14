@@ -1,8 +1,5 @@
-#include <iostream>
-
-using namespace std;
+#include "foo.h"
 
 int main() {
-    cout << "Hello, World!" << endl;
     return 0;
 }
