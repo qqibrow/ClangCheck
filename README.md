@@ -1,4 +1,4 @@
-# Use clang-check to analyze c++ source files
+## Usage of clang-check to analyze c++ source files
 
 ### toy example
 ```
